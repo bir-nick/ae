@@ -1,0 +1,9 @@
+D:\проекты\advanced environment\bin\Debug\advanced environment.exe
+D:\проекты\advanced environment\bin\Debug\advanced environment.pdb
+D:\проекты\advanced environment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\проекты\advanced environment\obj\x86\Debug\advanced_environment.Форма0.resources
+D:\проекты\advanced environment\obj\x86\Debug\advanced_environment.Properties.Resources.resources
+D:\проекты\advanced environment\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\проекты\advanced environment\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\проекты\advanced environment\obj\x86\Debug\advanced environment.exe
+D:\проекты\advanced environment\obj\x86\Debug\advanced environment.pdb
